@@ -3,7 +3,7 @@ public class Leap {
         int n = 2014;
       
         boolean ans = isLeap(n);
-        System.out.println("Ans"+ans);
+        System.out.println("Ans" + ans);
 
     }
     public static boolean isLeap(int num){
