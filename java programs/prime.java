@@ -5,9 +5,9 @@ class Prime{
         int num = in.nextInt();
         in.close();
         if(num % 2 == 0){
-            System.out.println("even!");
+            System.out.println("even");
         }else{
-            System.out.println("odd!");
+            System.out.println("odd");
         }
     }
 }
