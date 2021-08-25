@@ -11,7 +11,5 @@ class SumOfAllNumbers{
              }
              System.out.println(sum);
              in.close();
-           
-    
     }
 }
