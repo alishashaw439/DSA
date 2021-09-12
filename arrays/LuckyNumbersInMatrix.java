@@ -1,6 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
+//https://leetcode.com/problems/lucky-numbers-in-a-matrix/
+
 public class LuckyNumbersInMatrix {
     public static void main(String args[]) {
         int[][] matrix = { { 3, 7, 8 }, { 9, 11, 13 }, { 15, 16, 17 } };
