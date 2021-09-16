@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+//https://leetcode.com/problems/set-matrix-zeroes/
 public class SetMatrixZeroes {
     public static void main(String args[]) {
         int[][] matrix = {{0,1,2,0},{3,4,5,2},{1,3,1,5}};
