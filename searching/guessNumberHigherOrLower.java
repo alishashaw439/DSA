@@ -1,4 +1,5 @@
 public class guessNumberHigherOrLower {
+    //https://leetcode.com/problems/guess-number-higher-or-lower/solution/
     
     public static void main(String args[]){
         System.out.println(guessNumber(20));

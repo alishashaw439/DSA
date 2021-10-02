@@ -1,4 +1,5 @@
 public class firstBadVersion {
+   // https://leetcode.com/problems/first-bad-version/
     public static void main(String args[]){
         System.out.println(firstbadVersion(5));
     }
