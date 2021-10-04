@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arrangingCoins",
+            "request": "launch",
+            "mainClass": "arrangingCoins",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AddArrayToIntegerToArray<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "AddArrayToIntegerToArray",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArrayFromPermutation<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "ArrayFromPermutation",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConcatenateArray<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "ConcatenateArray",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CreateTargetArray<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "CreateTargetArray",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DiagonalMatrixSum<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "DiagonalMatrixSum",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Factorial<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Fibonacci<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstLastPosition<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "FirstLastPosition",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FlippingImage<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "FlippingImage",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HighestAltitude<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "HighestAltitude",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IdenticalPairs<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "IdenticalPairs",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JumpGame<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "JumpGame",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-KidsCandies<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "KidsCandies",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Lcm<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "Lcm",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Leap<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "Leap",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LuckyNumbersInMatrix<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "LuckyNumbersInMatrix",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MatchingRule<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "MatchingRule",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MatrixObtainByRotation<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "MatrixObtainByRotation",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaxMin<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "MaxMin",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MaximumPopulationYear<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "MaximumPopulationYear",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NcrandNpr<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "NcrandNpr",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumbersWithEvenDigits<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "NumbersWithEvenDigits",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OddValuesMatrix<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "OddValuesMatrix",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PangramSentence<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "PangramSentence",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PerfectNumber<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "PerfectNumber",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Prime<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ProductofArrayExceptSelf<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "ProductofArrayExceptSelf",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ReverseString<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RichestCustWealth<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "RichestCustWealth",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RotateArray<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "RotateArray",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RunningSum<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "RunningSum",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SetMatrixZeroes<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "SetMatrixZeroes",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ShuffleArray<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "ShuffleArray",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SmallerThanCurrNumber<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "SmallerThanCurrNumber",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SpiralMatrix<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "SpiralMatrix",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumOfAllNumbers<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "SumOfAllNumbers",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumOfNaturalNumbers<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "SumOfNaturalNumbers",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumOfNnumbers<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "SumOfNnumbers",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TransposeMatrix<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "TransposeMatrix",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UniqueIntSumZero<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "UniqueIntSumZero",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-armstrong<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-firstBadVersion<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "firstBadVersion",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-guessNumberHigherOrLower<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "guessNumberHigherOrLower",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-palindrome<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-sqrtOfX<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "sqrtOfX",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-substractProductandSum<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "substractProductandSum",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-twoSumII<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "twoSumII",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-twosum<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "twosum",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-validPerfectSquare<DSA_63b8997b>",
+            "request": "launch",
+            "mainClass": "validPerfectSquare",
+            "projectName": "DSA_63b8997b"
+        }
+    ]
+}
