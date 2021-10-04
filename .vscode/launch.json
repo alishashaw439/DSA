@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - smallestCharGreaterThanTarget",
+            "request": "launch",
+            "mainClass": "smallestCharGreaterThanTarget",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - arrangingCoins",
             "request": "launch",
             "mainClass": "arrangingCoins",
