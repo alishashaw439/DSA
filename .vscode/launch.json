@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CountNegativeInMatrix",
+            "request": "launch",
+            "mainClass": "CountNegativeInMatrix",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PeakMountain",
             "request": "launch",
             "mainClass": "PeakMountain",
