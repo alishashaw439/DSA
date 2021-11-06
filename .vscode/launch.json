@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IntersectionOfTwoArraysII",
+            "request": "launch",
+            "mainClass": "IntersectionOfTwoArraysII",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CountNegativeInMatrix",
             "request": "launch",
             "mainClass": "CountNegativeInMatrix",
