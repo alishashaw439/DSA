@@ -30,6 +30,7 @@ public class IntersectionOfTwoArraysII {
         // }
         // return arr;
         
+        //TC : O(nlogn + mlogm)
         Arrays.sort(nums1);
         Arrays.sort(nums2);
         

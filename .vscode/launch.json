@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IntersectionOfTwoArraysI",
+            "request": "launch",
+            "mainClass": "IntersectionOfTwoArraysI",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - IntersectionOfTwoArraysII",
             "request": "launch",
             "mainClass": "IntersectionOfTwoArraysII",
