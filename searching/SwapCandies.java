@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//https://leetcode.com/problems/fair-candy-swap/
 public class SwapCandies {
     public static void main(String args[]){
          int[] alice ={1,2,5};
