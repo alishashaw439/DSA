@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MinSumDiff",
+            "request": "launch",
+            "mainClass": "MinSumDiff",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchInRotatedArrayII",
+            "request": "launch",
+            "mainClass": "SearchInRotatedArrayII",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchInRotatedArray",
+            "request": "launch",
+            "mainClass": "SearchInRotatedArray",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FirstAndLastPos",
             "request": "launch",
             "mainClass": "FirstAndLastPos",
