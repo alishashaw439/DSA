@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SearchIn2DMatrix",
+            "request": "launch",
+            "mainClass": "SearchIn2DMatrix",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MinSumDiff",
             "request": "launch",
             "mainClass": "MinSumDiff",
