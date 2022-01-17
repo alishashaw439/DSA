@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PeakElementII",
+            "request": "launch",
+            "mainClass": "PeakElementII",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxFrequency",
+            "request": "launch",
+            "mainClass": "MaxFrequency",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SearchIn2DMatrix",
             "request": "launch",
             "mainClass": "SearchIn2DMatrix",
