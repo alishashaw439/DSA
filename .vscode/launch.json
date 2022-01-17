@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CapacityToShip",
+            "request": "launch",
+            "mainClass": "CapacityToShip",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FindDuplicate",
+            "request": "launch",
+            "mainClass": "FindDuplicate",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PeakElementII",
             "request": "launch",
             "mainClass": "PeakElementII",
