@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FourSum",
+            "request": "launch",
+            "mainClass": "FourSum",
+            "projectName": "DSA_63b8997b"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CapacityToShip",
             "request": "launch",
             "mainClass": "CapacityToShip",
